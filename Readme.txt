@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: BizPage
-Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
+Theme Name: Alstar
+Theme URL: https://bootstrapmade.com/alstar-free-parallax-bootstrap-template/
 Author: BootstrapMade.com
 Author URL: https://bootstrapmade.com
